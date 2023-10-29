@@ -1,6 +1,6 @@
 # HTML_for_beginners
 
-1)index
+##1)index
 2)lists
 3)links
 4)images
